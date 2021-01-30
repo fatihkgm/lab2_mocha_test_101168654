@@ -1,0 +1,23 @@
+{
+  "name": "lab2_mocha_test_101168654",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihkgm/lab2_mocha_test_101168654.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatihkgm/lab2_mocha_test_101168654/issues"
+  },
+  "homepage": "https://github.com/fatihkgm/lab2_mocha_test_101168654#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
